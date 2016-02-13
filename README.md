@@ -12,3 +12,4 @@ In this case in the folder where the script is started.
 
 And here you can see how it looks:
 
+![Alt text](/debug_test.png?raw=true "Optional Title")
