@@ -1,3 +1,4 @@
-#Pictures
-!debug_test.png
+# Ignore pictures
+*.png
+
 
