@@ -1,4 +1,4 @@
-# bash-debugging
+# bash_debugging
 Template with code snippets for debugging bash scripts
 
 Sometimes i need to debug some scripts while i write it.
@@ -9,3 +9,6 @@ As you can see in the script i used the function decho this function prints some
 
 It also prints the output to an logfile.
 In this case in the folder where the script is started.
+
+And here you can see how it looks:
+
